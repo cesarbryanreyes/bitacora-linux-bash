@@ -9,6 +9,7 @@
 
 ```bash
 whoami
+ls
 pwd
 cat /etc/os-release
 ```
