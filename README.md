@@ -1,11 +1,8 @@
 # Bitácora — Curso Linux y Bash para Bioinformática (CEM)
 
-> **Copia estas plantillas en TU propio repositorio** `bitacora-linux-bash`.
-> Se editan desde el navegador de GitHub (no necesitas `git` por terminal).
-
-**Autor:** _(tu nombre)_
-**GitHub:** _(tu usuario)_
-**Inicio:** _(fecha)_
+**Autor:** _Bryan_
+**GitHub:** _cesarbryanreyes_
+**Inicio:** _04/07/2026_
 
 ---
 
