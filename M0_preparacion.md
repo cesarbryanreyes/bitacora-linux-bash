@@ -8,7 +8,7 @@
 - Instalé/abrí mi terminal Linux y la verifiqué:
 
 ```bash
-whoami
+whoami ## ver usuario
 ls
 pwd
 cat /etc/os-release
